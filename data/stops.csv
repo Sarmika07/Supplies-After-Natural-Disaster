@@ -1,0 +1,15 @@
+stop_id,name,lat,lon,demand_kg,priority,deadline_min,service_min,route_id,committed,completed
+S-01,Ridge clinic,11.043,76.973,320,Critical,545,10,R-104,true,true
+S-02,Hope Valley clinic,11.052,76.988,420,Critical,570,12,R-104,true,true
+S-03,North shelter,11.066,77.002,260,Urgent,600,10,R-104,true,false
+S-04,Water point 14,11.071,76.981,210,Normal,620,8,R-104,true,false
+S-05,Eastbank school,11.019,77.004,300,Urgent,585,10,R-110,true,true
+S-06,Eastbank shelter,11.007,77.018,240,Urgent,610,9,R-110,true,false
+S-07,Community kitchen,10.991,77.025,180,Normal,635,8,R-110,true,false
+S-08,Harbor depot,10.973,76.969,360,Critical,565,11,R-098,true,true
+S-09,South clinic,10.962,76.951,220,Urgent,600,9,R-098,true,true
+S-10,Riverbend shelter,10.986,76.921,310,Critical,590,12,R-117,true,false
+S-11,West water point,11.003,76.908,280,Urgent,615,9,R-117,true,false
+S-12,Riverbend school,10.972,76.905,190,Normal,640,8,R-117,true,false
+S-13,Overflow camp,11.028,76.996,260,Urgent,595,10,R-110,true,false
+S-14,Mobile clinic,11.047,76.951,420,Critical,590,12,R-104,true,false

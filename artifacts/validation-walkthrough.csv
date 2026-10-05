@@ -1,0 +1,8 @@
+task,acceptance,evidence,status
+Inject vehicle breakdown,V-07 becomes unavailable and is excluded from feasible candidates,client/src/pages/Home.tsx + shared/replanner.ts,pass
+Recover pending stops,Pending V-07 work is reassigned or escalated without exceeding hard constraints,artifacts/benchmark-results.csv,pass
+Insert urgent addition,New S-15 is created at disruption time and assigned when feasible,shared/replanner.ts,pass
+Protect completed work,Completed stops remain immutable after replanning,client/src/lib/replanner.test.ts,pass
+Compare baseline,Reports expose baseline and ReliefRoute service cost distance emissions reliability,client/src/pages/Home.tsx,pass
+Handle infeasibility,Impossible demand appears in unassignedStops and decision trace,artifacts/benchmark-results.json,pass
+External dispatcher study,Requires 3-5 real participants and has not been fabricated,docs/validation.md,protocol-only

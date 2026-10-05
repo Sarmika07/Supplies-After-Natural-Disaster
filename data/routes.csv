@@ -1,0 +1,6 @@
+route_id,vehicle_id,driver_id,current_stop_index,distance_completed_km,distance_remaining_km,eta_min,status,stop_ids
+R-104,V-12,DR-01,2,14.8,9.4,42,On route,S-01|S-02|S-03|S-04|S-14
+R-110,V-07,DR-02,1,8.2,12.8,60,At risk,S-05|S-06|S-07|S-13
+R-098,V-03,DR-03,2,11.5,0,0,Complete,S-08|S-09
+R-117,V-18,DR-04,1,6.1,15.9,87,On route,S-10|S-11|S-12
+R-121,V-21,DR-05,0,0,0,0,On route,

@@ -1,0 +1,6 @@
+driver_id,name,lat,lon,available,committed_route_id,shift_end_min
+DR-01,Amara Okafor,11.031,76.963,true,R-104,620
+DR-02,Maya Patel,11.022,76.971,true,R-110,600
+DR-03,Nia Thompson,10.998,76.942,true,R-098,590
+DR-04,Sofia Reyes,11.008,76.934,true,R-117,620
+DR-05,Liam Chen,11.014,76.982,true,,610

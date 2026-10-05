@@ -1,0 +1,7 @@
+disruption_id,type,target_id,severity,description
+EXP-01,vehicle_unavailable,V-07,Urgent,V-07 becomes unavailable after a fuel-system fault
+EXP-02,urgent_addition,S-15,Critical,New 420 kg mobile clinic request arrives with a hard deadline
+EXP-03,cancellation,S-07,Normal,Community kitchen cancels before dispatch
+EXP-04,road,A12,Critical,A12 bridge closure creates a detour for affected routes
+EXP-05,capacity_shortage,V-12,Urgent,V-12 loses 1200 kg usable capacity mid-route
+EXP-06,urgent_addition,S-15,Critical,Infeasible stress case with only a 300 kg reserve vehicle remaining

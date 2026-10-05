@@ -1,0 +1,6 @@
+vehicle_id,capacity_kg,available,fuel_l,co2_kg_per_km,cost_per_km,driver_id
+V-12,1800,true,62,0.92,1.65,DR-01
+V-07,1400,true,38,0.78,1.42,DR-02
+V-03,1000,true,55,0.65,1.25,DR-03
+V-18,1600,true,44,0.84,1.51,DR-04
+V-21,1200,true,72,0.70,1.30,DR-05
